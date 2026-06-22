@@ -207,7 +207,10 @@ uvicorn api.main:app --reload --port 8000
 | Visualization | Matplotlib, Seaborn, Plotly |
 | Model Serialization | joblib / pickle |
 | Dataset | NSL-KDD (KDDTrain+ / KDDTest+) |
+---
+## Screenshort for the Dashboard
 
+---
 ---
 
 ## 📈 Results Summary
