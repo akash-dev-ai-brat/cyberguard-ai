@@ -208,7 +208,7 @@ uvicorn api.main:app --reload --port 8000
 | Model Serialization | joblib / pickle |
 | Dataset | NSL-KDD (KDDTrain+ / KDDTest+) |
 ---
-## Screenshort for the Dashboard
+## Screenshort Of Cuberguaird Ai - 
 
 ---
 ---
